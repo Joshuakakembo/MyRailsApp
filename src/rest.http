@@ -1,0 +1,8 @@
+POST  http://sandbox.newregistry.co.ug/api/v2/domains/register
+Content-Type: application/json
+Authorization: Bearer 3da2404fda5358ebfdeb150d2c95df45
+
+{
+    "domain_name":"registry.co.ug",
+    "period":"1"
+}
